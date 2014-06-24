@@ -22,3 +22,7 @@ it ping-pongs back to index.php.
 Not much. After setting up some sample data, the form allows attempts to login
 over https, and attempts to authenticate and authorize users, dying on
 an error if it fails and dumping the permissions if it succeeds.
+
+## The name ? 
+
+A Marvel Comics reference.Sentry is a character. The Void is his antithesis. 
