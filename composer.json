@@ -1,0 +1,8 @@
+{
+  "require": {
+    "cartalyst/sentry": "2.1.*",
+    "illuminate/database": "4.2.*",
+    "symfony/http-foundation":  "2.5.*",
+    "ircmaxell/password-compat": "1.0.*"
+  }
+}
